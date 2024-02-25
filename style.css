@@ -33,3 +33,13 @@
 .cat3{
     background-color:aquamarine;
 }
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-img-top{
+    size: 10px;
+}
+.card-footer{
+    background-color: white;
+}
